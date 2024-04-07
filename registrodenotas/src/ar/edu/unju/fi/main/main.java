@@ -50,6 +50,7 @@ public class main {
 			 
 			 numMaterias++;
 		 }
+		 scan.close();
 	}
 	 
 
